@@ -16,11 +16,11 @@ An intelligent full-stack task management application built with Django REST Fra
 
 🚀 Tech Stack
 
-Frontend	- Next.js (React) + Tailwind CSS
-Backend	- Django REST Framework
-Database	- Supabase PostgreSQL
-AI Layer	- OpenAI API / LM Studio (optional)
-Styling	- Tailwind CSS, dark mode, animations
+- Frontend	- Next.js (React) + Tailwind CSS
+- Backend	- Django REST Framework
+- Database	- Supabase PostgreSQL
+- AI Layer	- OpenAI API / LM Studio (optional)
+- Styling	- Tailwind CSS, dark mode, animations
 
 
 ⸻
@@ -180,8 +180,8 @@ Frontend - Light Mode:
 
 ⸻
 
-🎥 [Live Demo][https://drive.google.com/file/d/1cZ7yP28D6MLAVGdRhfLCuruawENkY2en/view?usp=sharing]
+🎥 [Live Demo](https://drive.google.com/file/d/1cZ7yP28D6MLAVGdRhfLCuruawENkY2en/view?usp=sharing)
 
 ⸻
 
-Thank You so much! Made with Love from Shubham Mola.
+Thank You so much! Made with Love by Shubham Mola.
