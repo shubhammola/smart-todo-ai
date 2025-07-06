@@ -5,12 +5,12 @@ An intelligent full-stack task management application built with Django REST Fra
 ⸻
 
 ✨ Features
-	•	Add, view, delete, and mark tasks as completed
-	•	Attractive UI with glassmorphism, gradient effects, and dark mode
-	•	Smart AI suggestions (mocked/static in UI for demo)
-	•	Responsive layout for mobile and desktop
-	•	Admin dashboard for managing tasks
-	•	Designed with clean architecture and OOP principles
+- Add, view, delete, and mark tasks as completed
+- Attractive UI with glassmorphism, gradient effects, and dark mode
+- Smart AI suggestions (mocked/static in UI for demo)
+- Responsive layout for mobile and desktop
+- Admin dashboard for managing tasks
+- Designed with clean architecture and OOP principles
 
 ⸻
 
